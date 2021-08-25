@@ -1,0 +1,49 @@
+/* CS upper division */
+
+// Big Data Concentration
+CS 363D Introduction to Data Mining w/ Beasley (good)
+CS 364D Advanced Data Mining w/ Liu (no reviews, no data)
+CS 378 Big Data Programming
+CS 356 Computer Networks w/ Han (BAD)
+CS 371D Distributed Computing
+CS 378 Modern Web Applications (dry)
+
+// Mobile Computing
+CS 356 Introduction to Wireless Networking w/ Qiu (very heavy slides, hard)
+CS 371L Ios Mobile Computing w/ Bulko (good)
+CS 356 Computer Networks w/ Han (BAD)
+
+// other
+CS 331 Algorithms and Complexity with Fraij (not Plaxton)
+CS 378 Behavioral Ethics: Digital Age with Landolt (good)
+CS 342 Neural Networks with Kraehenbuehl (seems good?)
+CS 349 Contemp Issues in Computer Science with Peterson (writing flag)
+CS 371R Info Retrieval and Web Search with Mooney (a lot of studying for exam)
+CS 353 Theory of Computation with Gal (lots of A's but no reviews)
+CS 375 Compilers with Novak (good)
+CS 378 Symbolic Programming with Novak (good)
+CS 378 Ethical Hacking with Prosise (Prosise)
+CS 373 Software Engineering w/ Downing (writing flag, challenging, high workload)
+
+
+/* certificate in applied statistical modeling */
+
+// III. Applied Statistics Course 1
+SDS 302 Data Analysis for Health Sciences - WB
+
+// IV. Applied Statistics Course 2
+SDS 332M
+
+// for fun electives
+
+anything with Landau
+HDF-322 Personal and Family Finance 
+LIN 350 15 Computational Semantics
+
+MUS 307 3-Jazz Appreciation with Sailors (CD)
+RHE 309K in general (Writing)
+RHE 321 Longaker Principles of Rhetoric
+E 366D Dante
+HIS 314K Mintz (Core)
+Sonic Ethnography w/ Marina Peterson (upper WR, easy)
+EDP Human Sexuality

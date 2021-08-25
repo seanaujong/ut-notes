@@ -1,0 +1,15 @@
+UT Course Notifier
+	google chrome/firefox extension
+	android/ios
+	notifies you when a UT class that you want opens
+	see: Coursicle
+
+J2.0
+	google chrome/firefox extension
+	android/ios
+	notifies you when your favorite food item at a UT dining location is available that day
+
+Asynchronous Rock Paper Scissors (ARPS)
+	bo5
+	https://www.youtube.com/watch?v=liWCEJAORA0
+	https://www.rpsgame.org/

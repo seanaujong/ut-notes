@@ -1,0 +1,23 @@
+Tips for OS
+
+Professor: 4/5
+Difficulty: 5/5
+
+What once would get you an A in 312/314/429 will now give you a C+ or B- in 439
+
+Take a very, very easy semester (<=13 hours)
+	Cannot pair this class with anything more than 3 blowoff courses
+
+Flashcards for exams
+	Write out the algorithm
+	Pros/Cons
+	Compare with similar algorithms
+	What inferior solution came before?
+	What superior solution came next?
+
+Projects
+	One topic behind current lectures (disorienting)
+	Go to office hours early
+	Search up other university explanations (Farshad Ghanei on YouTube)
+		"PintOS vm" on YouTube
+	Beware design doc - will lower your grade even if all test cases pass
