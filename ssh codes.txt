@@ -1,2 +1,0 @@
-passphrase for ssh key: (just press enter)
-password for aujong: Derp18181818#
