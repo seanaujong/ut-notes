@@ -1,0 +1,71 @@
+// Questions: 
+//
+// Design a time-based key-value data structure that can store multiple values for
+// the same key at different time stamps and retrieve the key's value at a certain timestamp.
+
+// Implement the methods of:
+// 1) void set(String key, String value, int timestamp): Stores the key with the value at the given time timestamp.
+// 2) String get(String key, int timestamp): Returns a value such that set() was called previously, with timestamp_prev < timestamp. 
+//    If there are multiple such values, it returns the value associated with the largest timestamp. If there are no values, it returns empty string.
+
+// All the timestamp of calling set() are strictly increasing.
+
+HashMap<key, List of timestamp:value search by binary search>
+
+class TimeStamp:
+    __init__(self, timestamp, value):
+        self.timestamp = timestamp
+        self.value = value
+
+class TimeMap:
+    __init__(self):
+        self.timemap = dict() # key : String ; value : list of timestamp:value
+    
+    def set(key, value, timestamp):
+        if not key in self.timemap.keys():
+            self.timemap[key] = list() # this is a list of TimeStamps!
+        self.timemap[key].append(TimeStamp(timestamp, value))
+        
+    def binary_search(arr, target):
+        low = 0
+        hi = len(arr) - 1
+        while True:
+            if hi - low < 1: return low
+            mid = low + (high - low) // 2
+            if arr[mid].timestamp > target:
+                hi = mid
+            else:
+                low = mid
+        
+    def get(key, timestamp):
+        if not key in self.timemap.keys():
+            return ""
+        # binary search
+        arr = self.timemap[key]
+        if arr[0].timestamp > timestamp:
+            return ""
+        return arr[binary_search(arr, timestamp)]
+        
+
+
+Class myClass = new MyClass();
+myClass.set("key-1", "value-1", 1);
+myClass.set("key-1", "value-2", 2);
+
+myClass.get("key-1", 3); // Return "value-2"
+myClass.get("key-1", 1); // Return "value-1"
+
+Class timeStamps = TimeMap()
+timeStamps.set("foo", "bar", 1)
+timeStamps.set("foo", "notbar", 2)
+timeStamps.set("foo", "notnotbar", 3)
+
+timeStamps.set("key-1", 5);
+timeStamp.get("key-1", 6);
+
+timeStamps.get("foo", 0) # return ""
+timeStamps.get("foo", 1) # return "bar"
+timeStamps.get("foo", 2) # return "notbar"
+timeStamps.get("foo", 3) # return "notnotbar"
+timeStamps.get("foo", 4) # return "notnotbar"
+timeStamp.get("foo123", 1) # return ""

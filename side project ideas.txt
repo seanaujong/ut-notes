@@ -13,3 +13,5 @@ Asynchronous Rock Paper Scissors (ARPS)
 	bo5
 	https://www.youtube.com/watch?v=liWCEJAORA0
 	https://www.rpsgame.org/
+
+Swimstrim Deck Scraper
