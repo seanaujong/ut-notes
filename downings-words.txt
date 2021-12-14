@@ -1,0 +1,126 @@
+I submitted the final grades today.
+
+117 students completed the class.
+
+Complaints about the new specifications grading notwithstanding, I gave more As than in any previous semester in the last 10 years!
+
+. A: 74%
+. A-: 12%
+
+Thanks for your participation. You were a great class, I hope you got a lot out of it, and thanks for the feedback on improving it. If you haven't already, I'd really appreciate a rating on:
+
+. https://www.ratemyprofessors.com/ShowRatings.jsp?tid=765147.
+
+Let me leave you with some reminders and suggestions:
+
+The single most important thing is to develop some focus on what you're doing after graduation. If you're interested in graduate school, find a professor to do some research with. If you're interested in employment, get an internship as soon as possible. If you're interested in something off the beaten path, consider the Peace Corps or Teach for America. They're fantastic experiences, and they defer whatever school loans you have, they pay for all of your expenses, and above that, they give you a salary, and you'll make a big difference in a community-in-need somewhere in the world.
+
+If you're interested in employment, the next most important thing to do is to create non-trivial projects that you can show on GitLab or to join and contribute to open-source projects. It is invaluable for a recruiter to see an internship on your resume and a non-trivial set of projects in your GitLab account.
+
+Become proficient at using:
+
+. source control (e.g. git)
+. source control workflows (e.g. Git flow, GitHub flow)
+. chat (e.g. Discord, Slack)
+. chat bots (e.g. Hubot)
+. issue tracking (e.g. GitLab, JIRA)
+. static analysis (e.g. eslint, pylint, mypy)
+. assertions
+. exceptions
+. unit testing (e.g. unittest, Mocha)
+. acceptance/system/integration testing (e.g. Selenium)
+. coverage tools (e.g. coverage, Istanbul)
+. debuggers (e.g. pdb)
+. memory checkers (e.g. tracemalloc)
+. profilers (e.g. cProfile)
+. automated documentation (e.g. pydoc)
+. automated formatting (e.g. black)
+. continuous integration (e.g. Bamboo, GitLab, Jenkins)
+. code reviews (e.g. Code Climate, Phabricator, Review Board)
+. IDEs (e.g. PyCharm, WebStorm)
+. libraries (e.g. NumPy, SciPy)
+. UML (e.g. PlantUML)
+. forms of Agile (e.g. pair programming, Scrum, TDD)
+
+Learn to distinguish interface from implementation. Hide your data. Make the minimum public.
+
+Become very familiar with count, filter, map, range, reduce, and zip. They make a very powerful combination.
+
+Closures, comprehensions, generators, and lambdas are somewhat unique to Python and have an amazing ability to express a computation concisely.
+
+Remember that profilers are runtime tools and even if perfect will only have a limited ability to help you speed up a program.
+
+In addition to the standard library become familiar with the NumPy library:
+
+. https://www.numpy.org
+
+It's widely used and experience with it will be a big plus in academia or industry.
+
+Learn more about testing:
+
+. https://www.udacity.com/course/software-testing--cs258
+
+Learn more about program design:
+
+. https://www.udacity.com/course/design-of-computer-programs--cs212
+
+Learn more about design patterns:
+
+. https://www.amazon.com/Head-First-Design-Patterns-Freeman/dp/0596007124/
+
+Go to the next Python conference:
+
+. https://us.pycon.org
+
+If you'll be interviewing anytime soon:
+
+. https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/
+
+Get into Competitive Programming:
+
+. https://codeforces.com
+. https://open.kattis.com
+. https://algo.is
+. https://www.cs.utexas.edu/users/utpc/
+
+Most importantly for yourself and for others, teach someone else what you've learned. Be a mentor. Be a coach. Come to my study sessions next term and help out.
+
+One last piece of advice, especially as some of you are graduating:
+
+There's a big difference between making a living and making a life.
+
+One of the critical things to being happy is being able to make a living doing something that you love to do, that expresses you to yourself and to others, and that perhaps they don't even have to pay you to do. Ask yourself what you would do if you won the lotto (that is after you got tired of partying, which I realize might be a while). If I won, I think I would still try to write beautiful code and that I would still try to teach others how to do the same.
+
+One of the things you're trying to figure out in college is what is that thing that you'll love to do, day in, day out. It's hard to do, but try to put aside any preconceived notions you have about a career: the money, the image, the chicks/hunks (whatever floats your boat), etc. Try to ground yourself by thinking out what the activity will be on a daily basis, and whether that activity is something you'll love and feel fulfilled by. Maybe it's being a computer scientist, maybe it's not. If working for the Red Cross, writing a novel, or being a money manager is the way to express yourself, do that.
+
+Best of luck finding your way. Don't let yourself get too frustrated if you feel lost. I think everyone feels lost a good deal of the time. And enjoy the journey. In the end that's all life has to offer any of us.
+
+Finally, don't be in a rush to graduate. You will likely look back at this as being one of the best times of your life.
+
+On that note, and, if you're eligible, check out the department's 5-year MS programs:
+
+. https://www.cs.utexas.edu/undergraduate/academics/curriculum/5-year-bsms/
+
+Let's all give a big thank you to Alex, Caitlin, Jefferson, and Mengning. They did a lot of work for all of us.
+
+Please don't hesitate to visit or write anytime. I'll try my best to help.
+
+Take care and good luck.
+
+P.S. Here are three final reads:
+
+. https://fs.blog/2012/04/david-foster-wallace-this-is-water/
+. http://www.paulgraham.com/love.html
+. http://www.paulgraham.com/essay.html
+
+Here's one final cartoon:
+
+. https://zenpencils.com/comic/98-alan-watts-what-if-money-was-no-object/
+
+And here are two final quotes:
+
+"The purpose of life is a life of purpose."
+-- Robert Byrne
+
+"It is not the critic who counts. ... The credit belongs to the man who is actually in the arena; whose face is marred by the dust and sweat and blood; who strives valiantly ... who, at worst, if he fails, at least fails while daring greatly; so that his place shall never be with those cold and timid souls who know neither victory nor defeat."
+-- Teddy Roosevelt
